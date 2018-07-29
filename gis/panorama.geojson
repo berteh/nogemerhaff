@@ -3,6 +3,7 @@
 	"features": [{
 			"type": "Feature",
 			"properties": {
+				"color": "#fffe00",
 				"marker-color": "#fffe00",
 				"marker-size": "medium",
 				"marker-symbol": "camera",
@@ -21,6 +22,7 @@
 			"type": "Feature",
 			"properties": {
 				"marker-color": "#ffd700",
+                                "color": "#ffd700",
 				"marker-size": "medium",
 				"marker-symbol": "camera",
 				"popup-text": "<a href='https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=farm-behind'>visit</a> the side of the farm most people don't see.",
@@ -38,6 +40,7 @@
 			"type": "Feature",
 			"properties": {
 				"marker-color": "#ffd700",
+				"color": "#ffd700",
 				"marker-size": "medium",
 				"marker-symbol": "camera",
 				"popup-text": "<a href='https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=valley-orchard'>look at</a> the growing orchard and upper Nogem valley",
@@ -55,6 +58,7 @@
 			"type": "Feature",
 			"properties": {
 				"marker-color": "#ffd700",
+				"color": "#ffd700",
 				"marker-size": "medium",
 				"marker-symbol": "camera",
 				"popup-text": "<a href='https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=nowhere'>visit</a> the middle of nowhere. Great place to start your visit.",
@@ -72,6 +76,7 @@
 			"type": "Feature",
 			"properties": {
 				"marker-color": "#ffd700",
+				"color": "#ffd700",
 				"marker-size": "medium",
 				"marker-symbol": "camera",
 				"popup-text": "<a href='https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=top-south'>visit</a> the south border of the top field. Really nice view.",
@@ -89,6 +94,7 @@
 			"type": "Feature",
 			"properties": {
 				"marker-color": "#ffd700",
+				"color": "#ffd700",
 				"marker-size": "medium",
 				"marker-symbol": "camera",
 				"popup-text": "<a href='https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=vegetables'>visit</a> the future vegetables field.",
@@ -106,6 +112,7 @@
 			"type": "Feature",
 			"properties": {
 				"marker-color": "#ffd700",
+				"color": "#ffd700",
 				"marker-size": "medium",
 				"marker-symbol": "camera",
 				"popup-text": "<a href='https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=farm-yard'>visit</a> the courtyard of the farm.",
