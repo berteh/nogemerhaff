@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffd700",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "popup-text": "<a href='https://courtscircuits.be/nogem/pannellum.htm?config=tour.json&firstScene=nowhere&autoLoad=true'>visit</a> the middle of nowhere. Great place to start your visit.",
+        "url": "https://courtscircuits.be/nogem/pannellum.htm?config=tour.json&firstScene=nowhere&autoLoad=true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.851593017578125,
+          49.79433484385573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffd700",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "popup-text": "<a href='https://courtscircuits.be/nogem/pannellum.htm?config=tour.json&firstScene=nowhere&autoLoad=true'>visit</a> the middle of nowhere. Great place to start your visit.",
+        "url": "https://courtscircuits.be/nogem/pannellum.htm?config=tour.json&firstScene=nowhere&autoLoad=true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.849672555923461,
+          49.792360944949536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffd700",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "popup-text": "<a href='https://courtscircuits.be/nogem/pannellum.htm?config=tour.json&firstScene=nowhere&autoLoad=true'>visit</a> the middle of nowhere. Great place to start your visit.",
+        "url": "https://courtscircuits.be/nogem/pannellum.htm?config=tour.json&firstScene=nowhere&autoLoad=true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.849350690841675,
+          49.792921955979885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffd700",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "popup-text": "<a href='https://courtscircuits.be/nogem/pannellum.htm?config=tour.json&firstScene=nowhere&autoLoad=true'>visit</a> the middle of nowhere. Great place to start your visit.",
+        "url": "https://courtscircuits.be/nogem/pannellum.htm?config=tour.json&firstScene=nowhere&autoLoad=true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.852301120758057,
+          49.79681422392009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffd700",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "popup-text": "<a href='https://courtscircuits.be/nogem/pannellum.htm?config=tour.json&firstScene=nowhere&autoLoad=true'>visit</a> the middle of nowhere. Great place to start your visit.",
+        "url": "https://courtscircuits.be/nogem/pannellum.htm?config=tour.json&firstScene=nowhere&autoLoad=true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.852515697479248,
+          49.796052416739855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffd700",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "popup-text": "<a href='https://courtscircuits.be/nogem/pannellum.htm?config=tour.json&firstScene=nowhere&autoLoad=true'>visit</a> the middle of nowhere. Great place to start your visit.",
+        "url": "https://courtscircuits.be/nogem/pannellum.htm?config=tour.json&firstScene=nowhere&autoLoad=true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.851442813873291,
+          49.79231246220975
+        ]
+      }
+    }
+  ]
+}
