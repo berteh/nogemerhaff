@@ -1,124 +1,123 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#fffe00",
-        "marker-size": "medium",
-        "marker-symbol": "camera",
-        "popup-text": "<a href='https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=nowhere'>visit</a> the middle of nowhere. Great place to start your visit.",
-        "url": "https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=nowhere"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.851593017578125,
-          49.79433484385573
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ffd700",
-        "marker-size": "medium",
-        "marker-symbol": "camera",
-        "popup-text": "<a href='https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=farm-behind'>visit</a> the side of the farm most people don't see.",
-        "url": "https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=farm-behind"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.849672555923461,
-          49.792360944949536
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ffd700",
-        "marker-size": "medium",
-        "marker-symbol": "camera",
-        "popup-text": "<a href='https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=valley-orchard'>look at</a> the growing orchard and upper Nogem valley",
-        "url": "https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=valley-orchard"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.849350690841675,
-          49.792921955979885
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ffd700",
-        "marker-size": "medium",
-        "marker-symbol": "camera",
-        "popup-text": "<a href='https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=nowhere'>visit</a> the middle of nowhere. Great place to start your visit.",
-        "url": "https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=nowhere"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.852301120758057,
-          49.79681422392009
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ffd700",
-        "marker-size": "medium",
-        "marker-symbol": "camera",
-        "popup-text": "<a href='https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=top-south'>visit</a> the south border of the top field. Really nice view.",
-        "url": "https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=top-south"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.852515697479248,
-          49.796052416739855
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ffd700",
-        "marker-size": "medium",
-        "marker-symbol": "camera",
-        "popup-text": "<a href='https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=vegetables'>visit</a> the future vegetables field.",
-        "url": "https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=vegetables"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.851442813873291,
-          49.79231246220975
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ffd700",
-        "marker-size": "medium",
-        "marker-symbol": "camera",
-        "popup-text": "<a href='https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=farm-yard'>visit</a> the courtyard of the farm.",
-        "url": "https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=farm-yard"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.849436521530151,
-          49.79198000782946
-        ]
-      }
-    }
-  ]
+	"type": "FeatureCollection",
+	"features": [{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#fffe00",
+				"marker-size": "medium",
+				"marker-symbol": "camera",
+				"popup-text": "<a href='https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=nowhere'>visit</a> the middle of nowhere. Great place to start your visit.",
+				"url": "https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=nowhere"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					5.851593017578125,
+					49.79433484385573
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#ffd700",
+				"marker-size": "medium",
+				"marker-symbol": "camera",
+				"popup-text": "<a href='https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=farm-behind'>visit</a> the side of the farm most people don't see.",
+				"url": "https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=farm-behind"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					5.849672555923461,
+					49.792360944949536
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#ffd700",
+				"marker-size": "medium",
+				"marker-symbol": "camera",
+				"popup-text": "<a href='https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=valley-orchard'>look at</a> the growing orchard and upper Nogem valley",
+				"url": "https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=valley-orchard"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					5.849350690841675,
+					49.792921955979885
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#ffd700",
+				"marker-size": "medium",
+				"marker-symbol": "camera",
+				"popup-text": "<a href='https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=nowhere'>visit</a> the middle of nowhere. Great place to start your visit.",
+				"url": "https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=nowhere"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					5.852301120758057,
+					49.79681422392009
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#ffd700",
+				"marker-size": "medium",
+				"marker-symbol": "camera",
+				"popup-text": "<a href='https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=top-south'>visit</a> the south border of the top field. Really nice view.",
+				"url": "https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=top-south"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					5.852515697479248,
+					49.796052416739855
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#ffd700",
+				"marker-size": "medium",
+				"marker-symbol": "camera",
+				"popup-text": "<a href='https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=vegetables'>visit</a> the future vegetables field.",
+				"url": "https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=vegetables"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					5.851442813873291,
+					49.79231246220975
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#ffd700",
+				"marker-size": "medium",
+				"marker-symbol": "camera",
+				"popup-text": "<a href='https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=farm-yard'>visit</a> the courtyard of the farm.",
+				"url": "https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=farm-yard"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					5.849436521530151,
+					49.79198000782946
+				]
+			}
+		}
+	]
 }
