@@ -1,0 +1,242 @@
+{   
+  "title": "Nogemerhaff in July 2018"
+  "basePath": "https://i.imgur.com/",
+  "hotSpotDebug": false,
+  "autoLoad" : false,
+  "compass": true,
+  "autoRotateInactivityDelay": 5000,
+  "previewTitle": "A virtual visit of Nogemerhaff, as of July 2018",
+  "previewAuthor": "Bertrand (feel free to contact me for information or questions)",
+
+  "default": {
+        "firstScene": "nowhere",
+        "author": "Bertrand G",
+        "sceneFadeDuration": 2000,
+        "vaov": 60,
+        "minPitch": -50,
+        "maxPitch": 50,
+        "type": "equirectangular",
+        "autoRotate": -4   
+  },
+
+  "scenes": {
+        "nowhere": {
+            "title": "In the beautiful middle of nowhere",
+            "panorama": "vrZ2pXI.jpg",
+            "yaw": -78.1,
+            "northOffset" : 73.759,
+            "hotSpots": [
+                {
+                    "pitch": 0.13,
+                    "yaw": -101.404,
+                    "type": "scene",
+                    "text": "Down to the vegetables field",
+                    "sceneId": "vegetables"
+                },{
+                    "pitch": 7.449,
+                    "yaw": 153.682,
+                    "type": "scene",
+                    "text": "Up to the top field",
+                    "sceneId": "top-south"
+                },{
+                    "pitch": 2.434,
+                    "yaw": -22.42,
+                    "type": "scene",
+                    "text": "Jump over the valley to the back of the farm",
+                    "sceneId": "farm-behind"
+                },{
+                    "pitch": 3.462,
+                    "yaw": -11.43,
+                    "type": "scene",
+                    "text": "Jump over the valley to look at the growing orchard",
+                    "sceneId": "valley-orchard"
+                } 
+            ]
+        },
+
+       "vegetables": {
+            "title": "The future vegetables field",
+            "panorama": "2eIfaPO.jpg",
+            "yaw": -97.4,
+            "northOffset" : -98.55,
+            "hotSpots": [
+                {
+                    "pitch": 6.27,
+                    "yaw": -87.65,
+                    "type": "scene",
+                    "text": "Up the hill, to the beautiful middle of nowhere",
+                    "sceneId": "nowhere"
+                },{
+                    "pitch": 5.68,
+                    "yaw": -156.54,
+                    "type": "scene",
+                    "text": "Jump over the river to look at the growing orchard",
+                    "sceneId": "valley-orchard"
+                },{
+                    "pitch": 4.766,
+                    "yaw": 175.598,
+                    "type": "scene",
+                    "text": "Run to the back of the farm",
+                    "sceneId": "farm-behind"
+                },{
+                    "pitch": 3.371,
+                    "yaw": 148.462,
+                    "type": "scene",
+                    "text": "Walk to the farm courtyard",
+                    "sceneId": "farm-yard"
+                } 
+            ]
+        },
+
+       "top-south": {
+            "title": "Southern side of the top field, one of my favorite views in Spring",
+            "panorama": "h8OzuPp.jpg",
+            "yaw": 7.4,
+            "northOffset" : 105.74,
+            "hotSpots": [
+                {
+                    "pitch": 0.13, 
+                    "yaw": -109.83,
+                    "type": "scene",
+                    "text": "Down to the vegetables field",
+                    "sceneId": "vegetables"
+                },{
+                    "pitch": 3.148,
+                    "yaw": -96.46,
+                    "type": "scene",
+                    "text": "to the middle of nowhere",
+                    "sceneId": "nowhere"
+                },{
+                    "pitch": 6.461,
+                    "yaw": 75.232,
+                    "type": "scene",
+                    "text": "Take a small step further to the middle of the top field",
+                    "sceneId": "top-middle"
+                }   
+            ]
+        } ,
+
+       "farm-behind": {
+            "title": "The (back)side of the farm you usually don't seed",
+            "panorama": "p1XOcgE.jpg",
+            "yaw": 7.4,
+            "northOffset" : -96.719,
+            "hotSpots": [
+                 {
+                    "pitch": -5.964,
+                    "yaw": -2.11,
+                    "type": "scene",
+                    "text": "Down to the vegetables field",
+                    "sceneId": "vegetables"
+                },{
+                    "pitch": -0.963,
+                    "yaw": -124.146,
+                    "type": "scene",
+                    "text": "To the orchard",
+                    "sceneId": "valley-orchard"
+                },{
+                    "pitch": -1.201,
+                    "yaw": -63.218,
+                    "type": "scene",
+                    "text": "Up the hill, to the beautiful middle of nowhere",
+                    "sceneId": "nowhere"
+                },{
+                    "pitch": -2.518,
+                    "yaw": 166.86,
+                    "type": "scene",
+                    "text": "To the court yard between the farm buildings",
+                    "sceneId": "farm-yard"
+                },{
+                    "pitch": -7.973,
+                    "yaw": 112.461,
+                    "type": "info",
+                    "text": "How many Angus beefs can you count ?"
+                }
+            ]
+        },
+
+       "valley-orchard": {
+            "title": "Over 280 fruit trees are growing on the North-West hill, they will shelter the Angus cows in a few years.",
+            "panorama": "3zCcBUY.jpg",
+            "yaw": 0,
+            "northOffset" : -168.72,
+            "hotSpots": [
+                {
+                    "pitch": 0.5209,
+                    "yaw": 145.319,
+                    "type": "scene",
+                    "text": "Down to the back side of the farm",
+                    "sceneId": "farm-behind"
+                },{
+                    "pitch": 9.719,
+                    "yaw": -53.945,
+                    "type": "info",
+                    "text": "If you look carefully here you may see the fruit trees... zooming can help too."
+                },{
+                    "pitch": 7.355,
+                    "yaw": 50.573,
+                    "type": "scene",
+                    "text": "Jump across the river, to the beautiful middle of nowhere",
+                    "sceneId": "nowhere"
+                },{
+                    "pitch": 0.982,
+                    "yaw": 113.304,
+                    "type": "scene",
+                    "text": "Down to the vegetables field",
+                    "sceneId": "vegetables"
+                },{
+                    "pitch": 3.623,
+                    "yaw":-175.80,
+                    "type": "scene",
+                    "text": "To the farm courtyard",
+                    "sceneId": "farm-yard"
+                }
+            ]
+        },
+
+       "farm-yard": {
+            "title": "The inner court of the Nogemerhaff",
+            "panorama": "P9w8V6B.jpg",
+            "yaw": 172,
+            "northOffset" : -107.69,
+            "hotSpots": [
+                {
+                    "pitch": -7.56,
+                    "yaw": -105.583,
+                    "type": "scene",
+                    "text": "to the back side of the farm and the orchard",
+                    "sceneId": "farm-behind"
+                },{
+                    "pitch": -12.484,
+                    "yaw": 23.795,
+                    "type": "scene",
+                    "text": "Walk to the vegetables field",
+                    "sceneId": "vegetables"
+                } 
+            ]
+        } ,
+
+       "top-middle": {
+            "title": "The middle of the top field, nicely protected by woods in all directions but South",
+            "panorama": "T0DrEjQ.jpg",
+            "yaw": -31.197,
+            "northOffset" : -50,
+            "hotSpots": [
+                {
+                    "pitch": 1.357, 
+                    "yaw": 42.816,
+                    "type": "scene",
+                    "text": "Down to the beautiful middle of nowhere",
+                    "sceneId": "nowhere"
+                } ,{
+                    "pitch": 0.109,
+                    "yaw": 26.137,
+                    "type": "scene",
+                    "text": "Take a small step south, to the border of this field",
+                    "sceneId": "top-south"
+                }  
+            ]
+        }        
+
+    }
+}	
