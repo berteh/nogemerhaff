@@ -1,5 +1,4 @@
-{   
-  "title": "Nogemerhaff in July 2018",
+{     
   "basePath": "https://i.imgur.com/",
   "hotSpotDebug": false,
   "autoLoad" : false,
@@ -11,6 +10,7 @@
   "default": {
         "firstScene": "nowhere",
         "author": "Bertrand G",
+        "title": "Nogemerhaff in July 2018",
         "sceneFadeDuration": 2000,
         "vaov": 60,
         "minPitch": -50,
