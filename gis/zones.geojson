@@ -8,7 +8,8 @@
         "fill": "#f98cff",
         "stroke-width": 3,
         "stroke-opacity": 1,
-        "popupTemplate": "future vegetables production field"
+        "name":"vegetables",
+        "description": "future vegetables production field"
       },
       "geometry": {
         "type": "Polygon",
@@ -82,7 +83,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill-opacity": 0.5,
-        "popupTemplate": "Central whole-year extensive pasture without fertilization"
+        "name":"pasture",
+        "description": "Central whole-year extensive pasture without fertilization"
       },
       "geometry": {
         "type": "Polygon",
@@ -344,7 +346,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill-opacity": 0.5,
-        "popupTemplate": "orchard with about 280 youg fruit trees of local and old varieties"
+        "name": "orchard",
+        "description":"orchard with about 280 youg fruit trees of local and old varieties, will be pastured after protecting the trees."
       },
       "geometry": {
         "type": "Polygon",
@@ -474,6 +477,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill-opacity": 0.5,
+        "name":"pasture",
         "popupTemplate": "Northern mowing pasture without fertilization"
       },
       "geometry": {
@@ -728,6 +732,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill-opacity": 0.5,
+        "name":"pasture",
         "popupTemplate": "Extensive pasture"
       },
       "geometry": {
@@ -818,6 +823,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill-opacity": 0.5,
+        "name":"south valley",
         "popupTemplate": "Southern mowing pasture without fertilization. Future natural wetland zone."
       },
       "geometry": {
