@@ -4,72 +4,89 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "jardin maraicher",
+        "description": "Le (futur) espace de production de légumes, aromates et autres délicatesses de saison et naturels.",
         "stroke": "#870382",
         "fill": "#f98cff",
         "stroke-width": 3,
         "stroke-opacity": 1,
-        "name":"vegetables",
-        "description": "future vegetables production field"
+        "surface": 22665.99
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              5.85245668888092,
-              49.79434176967517
+              5.85224211215973,
+              49.79203195397682
             ],
             [
-              5.852000713348389,
-              49.79375653443852
+              5.85212141275406,
+              49.79205100088353
             ],
             [
-              5.851517915725708,
-              49.79303623520787
+              5.851576924324034,
+              49.7920406116626
             ],
             [
-              5.851426720619202,
-              49.792783435342
+              5.851515233516692,
+              49.79210294695474
             ],
             [
-              5.851147770881653,
-              49.792350555795075
+              5.8514267206192,
+              49.79215835603597
             ],
             [
-              5.851147770881653,
-              49.7922847577652
+              5.851166546344755,
+              49.79227090553698
             ],
             [
-              5.851389169692993,
-              49.792194718211036
+              5.851131677627563,
+              49.79230553610009
             ],
             [
-              5.851571559906006,
-              49.792052732420146
+              5.851145088672636,
+              49.792359213423936
             ],
             [
-              5.8519041538238525,
-              49.79208390006843
+              5.851440131664276,
+              49.79277477778899
             ],
             [
-              5.852285027503967,
-              49.79207351085457
+              5.851525962352753,
+              49.79307605972397
             ],
             [
-              5.853336453437805,
-              49.79361455322636
+              5.85209995508194,
+              49.79386042286666
             ],
             [
-              5.853813886642456,
-              49.79416169804791
+              5.852480828762054,
+              49.79433830676558
             ],
             [
-              5.8532774448394775,
-              49.79428982600526
+              5.852960944175718,
+              49.794307140568066
             ],
             [
-              5.85245668888092,
-              49.79434176967517
+              5.853374004364012,
+              49.794260391234246
+            ],
+            [
+              5.853693187236784,
+              49.79419459579904
+            ],
+            [
+              5.853572487831115,
+              49.794083782232434
+            ],
+            [
+              5.852429866790771,
+              49.79239557544824
+            ],
+            [
+              5.85224211215973,
+              49.79203195397682
             ]
           ]
         ]
@@ -83,8 +100,9 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill-opacity": 0.5,
-        "name":"pasture",
-        "description": "Central whole-year extensive pasture without fertilization"
+        "name": "Pâture permanente",
+        "description": "Pâture permanente sans pertilisation",
+        "description-en": "Central whole-year extensive pasture without fertilization"
       },
       "geometry": {
         "type": "Polygon",
@@ -346,8 +364,9 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill-opacity": 0.5,
-        "name": "orchard",
-        "description":"orchard with about 280 youg fruit trees of local and old varieties, will be pastured after protecting the trees."
+        "name": "Verger",
+        "description": "Futur verger. 280 arbres fruitiers de variétés anciennes et locales, et les bovins viendront y paître une fois les arbres protégés.",
+        "description-en": "orchard with about 280 youg fruit trees of local and old varieties, will be pastured after protecting the trees."
       },
       "geometry": {
         "type": "Polygon",
@@ -477,8 +496,9 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill-opacity": 0.5,
-        "name":"pasture",
-        "popupTemplate": "Northern mowing pasture without fertilization"
+        "name": "pâture nord",
+        "popupTemplate": "Northern mowing pasture without fertilization",
+        "description": "Production de foin sans fertilisation"
       },
       "geometry": {
         "type": "Polygon",
@@ -732,8 +752,10 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill-opacity": 0.5,
-        "name":"pasture",
-        "popupTemplate": "Extensive pasture"
+        "name": "pasture",
+        "popupTemplate": "Extensive pasture",
+        "description-en": "Extensive pasture",
+        "description": "Pâture extensive"
       },
       "geometry": {
         "type": "Polygon",
@@ -823,8 +845,10 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill-opacity": 0.5,
-        "name":"south valley",
-        "popupTemplate": "Southern mowing pasture without fertilization. Future natural wetland zone."
+        "name-en": "south valley",
+        "popupTemplate": "Southern mowing pasture without fertilization. Future natural wetland zone.",
+        "name": "Vallée aval",
+        "description": "Au sud de la ferme, le prolongement de la vallée protège les sources qui aliment en eau potable la ville de Rédange."
       },
       "geometry": {
         "type": "Polygon",
