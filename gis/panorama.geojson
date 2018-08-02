@@ -64,27 +64,8 @@
 				"color": "#ffd700",
 				"marker-size": "medium",
 				"marker-symbol": "camera",
-				"name":"le champ supérieur",
-				"description":"Encadré par de belles forêts sur trois faces, on y surplombe la vallée.",
-				"url": "https://cdn.pannellum.org/2.4/pannellum.htm?config=//gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=nowhere"
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					5.852301120758057,
-					49.79681422392009
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"marker-color": "#ffd700",
-				"color": "#ffd700",
-				"marker-size": "medium",
-				"marker-symbol": "camera",
 				"name":"le côté Sud du champ supérieur",
-				"description":"Un bel endroit.",
+				"description":"Un belle parcelle de cultures encadrée par de belles forêts sur trois faces. Nous y produirons probablement (aussi) des semences. On y surplombe la vallée... vraiment un bel endroit !",
 				"url": "https://cdn.pannellum.org/2.4/pannellum.htm?config=//gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=top-south"
 			},
 			"geometry": {
