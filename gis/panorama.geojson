@@ -9,7 +9,7 @@
 				"marker-symbol": "camera",
 				"name":"au milieu de nulle part",
 				"description":"Un bel endroit où commencer votre visite.",
-				"url": "https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=nowhere"
+				"url": "https://cdn.pannellum.org/2.4/pannellum.htm?config=//gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=nowhere"
 			},
 			"geometry": {
 				"type": "Point",
@@ -28,7 +28,7 @@
 				"marker-symbol": "camera",
 				"name":"derrière la ferme",
 				"description":"Le côté des choses que la plupart des gens ne voient jamais.",
-				"url": "https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=farm-behind"
+				"url": "https://cdn.pannellum.org/2.4/pannellum.htm?config=//gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=farm-behind"
 			},
 			"geometry": {
 				"type": "Point",
@@ -47,7 +47,7 @@
 				"marker-symbol": "camera",
 				"name":"le (futur) verger",
 				"description":"Ici pousse notre futur verger. 280 arbres fruitiers de variétés anciennes et locales, et les bovins viendront y paître une fois les arbres protégés.",
-				"url": "https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=valley-orchard"
+				"url": "https://cdn.pannellum.org/2.4/pannellum.htm?config=//gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=valley-orchard"
 			},
 			"geometry": {
 				"type": "Point",
@@ -66,7 +66,7 @@
 				"marker-symbol": "camera",
 				"name":"le champ supérieur",
 				"description":"Encadré par de belles forêts sur trois faces, on y surplombe la vallée.",
-				"url": "https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=nowhere"
+				"url": "https://cdn.pannellum.org/2.4/pannellum.htm?config=//gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=nowhere"
 			},
 			"geometry": {
 				"type": "Point",
@@ -85,7 +85,7 @@
 				"marker-symbol": "camera",
 				"name":"le côté Sud du champ supérieur",
 				"description":"Un bel endroit.",
-				"url": "https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=top-south"
+				"url": "https://cdn.pannellum.org/2.4/pannellum.htm?config=//gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=top-south"
 			},
 			"geometry": {
 				"type": "Point",
@@ -104,7 +104,7 @@
 				"marker-symbol": "camera",
 				"name":"le jardin maraîcher",
 				"description":"Le (futur) jardin maraîcher, où l'on cultivera des légumes, aromates et autres délicatesses de saison et naturelles.",
-				"url": "https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=vegetables"
+				"url": "https://cdn.pannellum.org/2.4/pannellum.htm?config=//gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=vegetables"
 			},
 			"geometry": {
 				"type": "Point",
@@ -123,7 +123,7 @@
 				"marker-symbol": "camera",
 				"name":"la cours de la ferme",
 				"description":"Le centre névralgique de l'ancienne exploitation, qui sera rénovée.",
-				"url": "https://cdn.pannellum.org/2.4/pannellum.htm?config=https://gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=farm-yard"
+				"url": "https://cdn.pannellum.org/2.4/pannellum.htm?config=//gitcdn.xyz/repo/berteh/nogemerhaff/master/web/tour.json&autoLoad=true&firstScene=farm-yard"
 			},
 			"geometry": {
 				"type": "Point",
